@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+scipy
+scikit-learn
+keyboard
+pillow
